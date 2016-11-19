@@ -1,0 +1,6 @@
+*.jar
+*.class
+
+*.txt
+!candidates*.txt
+!manifest.txt
